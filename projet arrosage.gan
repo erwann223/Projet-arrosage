@@ -80,7 +80,7 @@
             <taskproperty id="tpd8" name="coordinator" type="default" valuetype="text"/>
             <taskproperty id="tpd9" name="predecessorsr" type="default" valuetype="text"/>
         </taskproperties>
-        <task id="0" uid="4c2778167268450690706ce6de5cf718" name="carte mental systeme d'arrosage" color="#ff3300" meeting="false" start="2025-11-21" duration="1" complete="0" expand="true">
+        <task id="0" uid="4c2778167268450690706ce6de5cf718" name="carte mental systeme d'arrosage" color="#ff3300" meeting="false" start="2025-11-21" duration="1" complete="0" webLink="https%3A%2F%2Ferwann223.github.io%2FProjet-arrosage%2FCarte_mentale%2FMVHtmlExport%2Findex.htm" expand="true">
             <notes><![CDATA[objectif :
 methode : 
 conclusion :]]></notes>
