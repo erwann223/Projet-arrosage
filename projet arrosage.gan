@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><project name="projet arrossage" company="sti2d" webLink="http://" view-date="2025-11-18" view-index="0" gantt-divider-location="351" resource-divider-location="300" version="3.3.3316" locale="fr_FR">
+<?xml version="1.0" encoding="UTF-8"?><project name="projet arrossage" company="sti2d" webLink="http://" view-date="2025-11-13" view-index="0" gantt-divider-location="351" resource-divider-location="300" version="3.3.3316" locale="fr_FR">
     <description><![CDATA[projet de creation d'arrosage automatique]]></description>
     <view zooming-state="default:2" id="gantt-chart">
         <field id="tpd3" name="Nom" width="200" order="0"/>
